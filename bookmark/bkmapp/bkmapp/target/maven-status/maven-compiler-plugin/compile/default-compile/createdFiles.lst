@@ -1,0 +1,16 @@
+bkm/security/SecurityEncoding.class
+bkm/boundary/Credential.class
+bkm/control/BookStore.class
+bkm/control/UserStore.class
+bkm/entity/User.class
+bkm/entity/BaseEntity.class
+bkm/entity/Tag.class
+bkm/boundary/BooksResources.class
+bkm/boundary/UsersResources.class
+bkm/control/TagStore.class
+bkm/adapter/UserTypeAdapter.class
+bkm/security/JwtTokenException.class
+airhacks/service/ping/boundary/PingResource.class
+bkm/entity/Book.class
+bkm/security/JWTManager.class
+airhacks/service/JAXRSConfiguration.class

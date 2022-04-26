@@ -1,0 +1,16 @@
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/entity/User.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/entity/Tag.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/control/UserStore.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/boundary/BooksResources.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/control/BookStore.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/adapter/UserTypeAdapter.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/entity/Book.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/control/TagStore.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/security/JWTManager.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/airhacks/service/JAXRSConfiguration.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/boundary/Credential.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/boundary/UsersResources.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/security/SecurityEncoding.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/airhacks/service/ping/boundary/PingResource.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/security/JwtTokenException.java
+/home/tss/Andre/Java/JEE/bookmark/bkmapp/bkmapp/src/main/java/bkm/entity/BaseEntity.java
