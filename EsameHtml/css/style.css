@@ -139,9 +139,23 @@ body {
 
   @media (max-width: 1200px){
     .immagine-centrale img{
-        max-width: 600px;
+        max-width: 1000px;
  
     }  
   }
 
+
+.p-2 {
+  flex: 25%;
+}
   
+.flex-container{
+
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.flex-item{
+  
+}
